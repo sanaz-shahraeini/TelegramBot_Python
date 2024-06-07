@@ -1,4 +1,5 @@
-# added Inline Keyboard Buttons to Telegram bot. This will allow users to interact with the bot through buttons,
+# added Inline Keyboard Buttons to Telegram bot.
+# This will allow users to interact with the bot through buttons,
 # enhancing the user experience.
 """
 Database Initialization:
