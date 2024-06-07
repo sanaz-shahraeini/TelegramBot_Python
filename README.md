@@ -22,7 +22,7 @@ This repository contains a Telegram bot built using Python and the `pyTelegramBo
 
     ```bash
     git clone https://github.com/sanaz-shahraeini/TelegramBot_Python.git
-    cd your-repo
+    TelegramBot_Python
     ```
 
 2. Install the required libraries:
