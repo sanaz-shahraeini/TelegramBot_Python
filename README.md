@@ -4,6 +4,7 @@ This repository contains a Telegram bot built using Python and the `pyTelegramBo
 
 ## ✨ Features ( a steo by step guid )
 
+- ⚓ connection between telegram bot & python program
 - ⌨️ Inline and reply keyboard buttons
 - 🗄️ SQLite database integration
 - 📝 User registration check
@@ -36,11 +37,15 @@ This repository contains a Telegram bot built using Python and the `pyTelegramBo
 ### 🚀 Bot Setup
 
 1.  Create a .env File 📝
-1-1 Create a file named .env in the root directory of your project and add your Telegram bot token to it:
+# 1-1 Create a file named .env in the root directory of your project and add your Telegram bot token to it:
     ```bash
     TOKEN = "YOUR BBOT API KEY"
     ```
 3. Set the list of required channel usernames in the `REQUIRED_CHANNELS` variable if you wanna run 6-check_channel_membership.py file
+ ```bash
+   REQUIRED_CHANNELS = ['@channel_username1', '@channel_username2']
+```
+
 
 ### ▶️ Running the Bot
 
