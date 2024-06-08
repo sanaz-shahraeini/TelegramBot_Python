@@ -34,7 +34,8 @@ This repository contains a Telegram bot built using Python and the `pyTelegramBo
 ### 🚀 Bot Setup
 
 1.  Create a .env File 📝
-- Create a file named .env in the root directory of your project and add your Telegram bot token to it:
+   
+ <p>Create a file named .env in the root directory of your project and add your Telegram bot token to it:</p>
    ```bash
     TOKEN = "YOUR BBOT API KEY"
   ```
@@ -49,3 +50,9 @@ This repository contains a Telegram bot built using Python and the `pyTelegramBo
 Run the bot using the following command:
   ```bash
    python One_filename.py
+  ```
+
+### 📌Additional Notes 
+
+- Ensure your bot has the necessary permissions to check membership status in the channels.
+- The bot must be an administrator in the channels it is checking, or the channels must be public.
