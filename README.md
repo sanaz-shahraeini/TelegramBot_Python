@@ -35,7 +35,7 @@ This repository contains a Telegram bot built using Python and the `pyTelegramBo
 
 1.  Create a .env File 📝
    
- <p>Create a file named .env in the root directory of your project and add your Telegram bot token to it:</p>
+   Create a file named .env in the root directory of your project and add your Telegram bot token to it:
    ```bash
     TOKEN = "YOUR BBOT API KEY"
   ```
