@@ -39,7 +39,7 @@ This repository contains a Telegram bot built using Python and the `pyTelegramBo
    ```bash
     TOKEN = "YOUR BBOT API KEY"
   ```
-3. Set the list of required channel usernames in the `REQUIRED_CHANNELS` variable if you wanna run 6-check_channel_membership.py file
+2. Set the list of required channel usernames in the `REQUIRED_CHANNELS` variable if you wanna run 6-check_channel_membership.py file
    ```bash
    REQUIRED_CHANNELS = ['@channel_username1', '@channel_username2']
    ```
@@ -47,7 +47,7 @@ This repository contains a Telegram bot built using Python and the `pyTelegramBo
 
 ### ▶️ Running the Bot
 
-Run the bot using the following command:
+- Run the bot using the following command:
   ```bash
    python One_filename.py
   ```
