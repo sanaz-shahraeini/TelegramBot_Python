@@ -2,7 +2,7 @@
 
 This repository contains a Telegram bot built using Python and the `pyTelegramBotAPI` library. The bot includes features such as checking if a user is new, managing SQLite databases for user data, and ensuring users are members of specific channels before allowing them to interact with the bot.
 
-## ✨ Features ( a steo by step guid )
+## ✨ Features ( a step by step guid )
 
 - ⚓ connection between telegram bot & python program
 - ⌨️ Inline and reply keyboard buttons
@@ -21,14 +21,13 @@ This repository contains a Telegram bot built using Python and the `pyTelegramBo
 ### 📦 Installation
 
 1. Clone the repository:
-
+   
     ```bash
     git clone https://github.com//sanaz-shahraeini/TelegramBot_Python.git
     cd TelegramBot_Python
     ```
 
-2. Install the required libraries:
-    Update requirements.txt
+3. Install the required libraries:
 
     ```bash
     pip install -r requirements.txt
@@ -43,8 +42,8 @@ This repository contains a Telegram bot built using Python and the `pyTelegramBo
     ```
 3. Set the list of required channel usernames in the `REQUIRED_CHANNELS` variable if you wanna run 6-check_channel_membership.py file
  ```bash
-   REQUIRED_CHANNELS = ['@channel_username1', '@channel_username2']
-```
+ REQUIRED_CHANNELS = ['@channel_username1', '@channel_username2']
+ ```
 
 
 ### ▶️ Running the Bot
